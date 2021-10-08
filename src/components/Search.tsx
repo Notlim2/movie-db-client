@@ -31,6 +31,7 @@ const SearchResults = styled.div`
   border-radius: 8px;
   padding: 24px;
   overflow-y: auto;
+  z-index: 2;
 
   display: flex;
   flex-direction: column;
